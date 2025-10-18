@@ -118,3 +118,7 @@ footer {
 .fade-in-slow { transition-delay: 0.6s; }
 .slide-left { transform: translateX(-40px); }
 .slide-right { transform: translateX(40px); }
+.review img {
+  max-width: 70%;
+  border-radius: 20px;
+}
